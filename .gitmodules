@@ -1,0 +1,9 @@
+[submodule "gold_test_cases"]
+	path = gold_test_cases
+	url = https://github.com/GuqiaoLiang/gold_test_cases.git
+[submodule "MultiHiertt"]
+	path = MultiHiertt
+	url = https://github.com/GuqiaoLiang/MultiHiertt.git
+[submodule "spreadsheet_dataset_research"]
+	path = spreadsheet_dataset_research
+	url = https://github.com/GuqiaoLiang/spreadsheet_dataset_research.git
