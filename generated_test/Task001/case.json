@@ -1,0 +1,12 @@
+{
+  "task_id": "2647",
+  "title": "Science Fact Checking",
+  "spreadsheets": [
+    "generated_test/Task001/spreadsheets/Spreadsheet/science-table74.xlsx"
+  ],
+  "prompt": "Which time point shows the highest mean fold change?",
+  "answer": "TNF 0.5h",
+  "expected_output_file": [],
+  "feedback": "",
+  "source_dataset": "Spreadsheet"
+}

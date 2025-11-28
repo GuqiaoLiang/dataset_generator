@@ -1,0 +1,16 @@
+{
+  "task_id": "Test 4507",
+  "title": "CECONY 3.2.1.1 Restated Certificate of Incorporation of CECONY filed with the Department of State of",
+  "spreadsheets": [
+    "generated_test/Task005/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4507/table0.xlsx",
+    "generated_test/Task005/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4507/table1.xlsx",
+    "generated_test/Task005/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4507/table2.xlsx",
+    "generated_test/Task005/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4507/table3.xlsx",
+    "generated_test/Task005/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4507/table4.xlsx"
+  ],
+  "prompt": "What's the average of Purchased power of For the Years Ended December 31, 2015, and Interruptible Sales of Year Ended December 31, 2013 ?",
+  "answer": 2581.0,
+  "expected_output_file": [],
+  "feedback": "Do you expect an average by summing the referenced values and dividing by the count while keeping the same units?",
+  "source_dataset": "MultiHiertt"
+}

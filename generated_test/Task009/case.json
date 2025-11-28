@@ -1,0 +1,12 @@
+{
+  "task_id": "1166",
+  "title": "Economy Numerical Reasoning",
+  "spreadsheets": [
+    "generated_test/Task009/spreadsheets/SpreadsheetWithFeedback/economy-table86.xlsx"
+  ],
+  "prompt": "How many rows in the table have valid percentage data for 'All food' under the 'Prediction Interval 2024'?",
+  "answer": "1",
+  "expected_output_file": [],
+  "feedback": "Should derived percentages include adjustments for missing values?",
+  "source_dataset": "SpreadsheetWithFeedback"
+}

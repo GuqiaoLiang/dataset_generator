@@ -1,0 +1,12 @@
+{
+  "task_id": "1249",
+  "title": "Economy Fact Checking",
+  "spreadsheets": [
+    "generated_test/Task004/spreadsheets/SpreadsheetWithFeedback/economy-table113.xlsx"
+  ],
+  "prompt": "Which manager has the most employees reporting to them under Manager 109?",
+  "answer": "91",
+  "expected_output_file": [],
+  "feedback": "I found missing values in the dataset—should they be ignored, filled with zero, or interpolated?",
+  "source_dataset": "SpreadsheetWithFeedback"
+}

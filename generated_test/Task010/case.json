@@ -1,0 +1,14 @@
+{
+  "task_id": "Test 1680",
+  "title": "BUSINESS OUTLOOK As fiscal 2009 began, domestic and international markets continued to reflect a difficult",
+  "spreadsheets": [
+    "generated_test/Task010/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1680/table0.xlsx",
+    "generated_test/Task010/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1680/table1.xlsx",
+    "generated_test/Task010/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1680/table2.xlsx"
+  ],
+  "prompt": "What's the total amount of Cash management and Alternative investment productsin 2008? (in millions)",
+  "answer": 1239.0,
+  "expected_output_file": [],
+  "feedback": "Should I sum the specified values directly and give the total in the stated units?",
+  "source_dataset": "MultiHiertt"
+}

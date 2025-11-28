@@ -1,0 +1,15 @@
+{
+  "task_id": "Test 1825",
+  "title": "development phase prior to ship construction.",
+  "spreadsheets": [
+    "generated_test/Task002/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1825/table0.xlsx",
+    "generated_test/Task002/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1825/table1.xlsx",
+    "generated_test/Task002/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1825/table2.xlsx",
+    "generated_test/Task002/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1825/table3.xlsx"
+  ],
+  "prompt": "what's the total amount of Clients of Year Ended December 31, 2016, Balance, beginning of year of As of December 2010, and Clients of Year Ended December 31, 2014 ?",
+  "answer": 32517.0,
+  "expected_output_file": [],
+  "feedback": "Should I sum the specified values directly and give the total in the stated units?",
+  "source_dataset": "MultiHiertt"
+}

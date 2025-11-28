@@ -1,0 +1,152 @@
+[
+  {
+    "task_id": "2647",
+    "title": "Science Fact Checking",
+    "spreadsheets": [
+      "Task001/spreadsheets/Spreadsheet/science-table74.xlsx"
+    ],
+    "prompt": "Which time point shows the highest mean fold change?",
+    "answer": "TNF 0.5h",
+    "expected_output_file": [],
+    "feedback": "",
+    "source_dataset": "Spreadsheet",
+    "task_dir": "Task001"
+  },
+  {
+    "task_id": "Test 1825",
+    "title": "development phase prior to ship construction.",
+    "spreadsheets": [
+      "Task002/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1825/table0.xlsx",
+      "Task002/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1825/table1.xlsx",
+      "Task002/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1825/table2.xlsx",
+      "Task002/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1825/table3.xlsx"
+    ],
+    "prompt": "what's the total amount of Clients of Year Ended December 31, 2016, Balance, beginning of year of As of December 2010, and Clients of Year Ended December 31, 2014 ?",
+    "answer": 32517.0,
+    "expected_output_file": [],
+    "feedback": "Should I sum the specified values directly and give the total in the stated units?",
+    "source_dataset": "MultiHiertt",
+    "task_dir": "Task002"
+  },
+  {
+    "task_id": "Test 410",
+    "title": "20.",
+    "spreadsheets": [
+      "Task003/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_410/table0.xlsx",
+      "Task003/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_410/table1.xlsx",
+      "Task003/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_410/table2.xlsx",
+      "Task003/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_410/table3.xlsx",
+      "Task003/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_410/table4.xlsx"
+    ],
+    "prompt": "What's the sum of Decreases from the expiration of statute of limitations of 2015, and Life and Health companies of Years Ended December 31, 2013 ?",
+    "answer": 151628.0,
+    "expected_output_file": [],
+    "feedback": "Should I sum the specified values directly and give the total in the stated units?",
+    "source_dataset": "MultiHiertt",
+    "task_dir": "Task003"
+  },
+  {
+    "task_id": "1249",
+    "title": "Economy Fact Checking",
+    "spreadsheets": [
+      "Task004/spreadsheets/SpreadsheetWithFeedback/economy-table113.xlsx"
+    ],
+    "prompt": "Which manager has the most employees reporting to them under Manager 109?",
+    "answer": "91",
+    "expected_output_file": [],
+    "feedback": "I found missing values in the dataset—should they be ignored, filled with zero, or interpolated?",
+    "source_dataset": "SpreadsheetWithFeedback",
+    "task_dir": "Task004"
+  },
+  {
+    "task_id": "Test 4507",
+    "title": "CECONY 3.2.1.1 Restated Certificate of Incorporation of CECONY filed with the Department of State of",
+    "spreadsheets": [
+      "Task005/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4507/table0.xlsx",
+      "Task005/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4507/table1.xlsx",
+      "Task005/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4507/table2.xlsx",
+      "Task005/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4507/table3.xlsx",
+      "Task005/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4507/table4.xlsx"
+    ],
+    "prompt": "What's the average of Purchased power of For the Years Ended December 31, 2015, and Interruptible Sales of Year Ended December 31, 2013 ?",
+    "answer": 2581.0,
+    "expected_output_file": [],
+    "feedback": "Do you expect an average by summing the referenced values and dividing by the count while keeping the same units?",
+    "source_dataset": "MultiHiertt",
+    "task_dir": "Task005"
+  },
+  {
+    "task_id": "Test 4013",
+    "title": "Table VII Allowance for Credit Losses (continued)",
+    "spreadsheets": [
+      "Task006/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4013/table0.xlsx",
+      "Task006/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4013/table1.xlsx",
+      "Task006/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_4013/table2.xlsx"
+    ],
+    "prompt": "What's the 2012 increasing rate of Average loans and leases outstanding?",
+    "answer": -0.0423,
+    "expected_output_file": [],
+    "feedback": "Should I report the percentage change using (difference divided by the baseline) rather than an absolute amount?",
+    "source_dataset": "MultiHiertt",
+    "task_dir": "Task006"
+  },
+  {
+    "task_id": "Test 3658",
+    "title": "Table of Contents ADOBE SYSTEMS INCORPORATED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) improvements are amortized",
+    "spreadsheets": [
+      "Task007/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_3658/table0.xlsx",
+      "Task007/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_3658/table1.xlsx",
+      "Task007/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_3658/table2.xlsx"
+    ],
+    "prompt": "what was average weighted average useful life ( years ) for customer contracts and relationships and trademarks?",
+    "answer": 8.5,
+    "expected_output_file": [],
+    "feedback": "Do you expect an average by summing the referenced values and dividing by the count while keeping the same units?",
+    "source_dataset": "MultiHiertt",
+    "task_dir": "Task007"
+  },
+  {
+    "task_id": "Test 2287",
+    "title": "APACHE CORPORATION AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) As of December 31,",
+    "spreadsheets": [
+      "Task008/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_2287/table0.xlsx",
+      "Task008/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_2287/table1.xlsx",
+      "Task008/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_2287/table2.xlsx",
+      "Task008/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_2287/table3.xlsx"
+    ],
+    "prompt": "What's the total amount of the oil volum in the years where North Sea is greater than 60000?",
+    "answer": 501979.0,
+    "expected_output_file": [],
+    "feedback": "Should I sum the specified values directly and give the total in the stated units?",
+    "source_dataset": "MultiHiertt",
+    "task_dir": "Task008"
+  },
+  {
+    "task_id": "1166",
+    "title": "Economy Numerical Reasoning",
+    "spreadsheets": [
+      "Task009/spreadsheets/SpreadsheetWithFeedback/economy-table86.xlsx"
+    ],
+    "prompt": "How many rows in the table have valid percentage data for 'All food' under the 'Prediction Interval 2024'?",
+    "answer": "1",
+    "expected_output_file": [],
+    "feedback": "Should derived percentages include adjustments for missing values?",
+    "source_dataset": "SpreadsheetWithFeedback",
+    "task_dir": "Task009"
+  },
+  {
+    "task_id": "Test 1680",
+    "title": "BUSINESS OUTLOOK As fiscal 2009 began, domestic and international markets continued to reflect a difficult",
+    "spreadsheets": [
+      "Task010/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1680/table0.xlsx",
+      "Task010/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1680/table1.xlsx",
+      "Task010/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_1680/table2.xlsx"
+    ],
+    "prompt": "What's the total amount of Cash management and Alternative investment productsin 2008? (in millions)",
+    "answer": 1239.0,
+    "expected_output_file": [],
+    "feedback": "Should I sum the specified values directly and give the total in the stated units?",
+    "source_dataset": "MultiHiertt",
+    "task_dir": "Task010"
+  }
+]

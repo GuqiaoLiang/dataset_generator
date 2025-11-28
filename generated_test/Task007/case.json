@@ -1,0 +1,14 @@
+{
+  "task_id": "Test 3658",
+  "title": "Table of Contents ADOBE SYSTEMS INCORPORATED NOTES TO CONSOLIDATED FINANCIAL STATEMENTS (Continued) improvements are amortized",
+  "spreadsheets": [
+    "generated_test/Task007/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_3658/table0.xlsx",
+    "generated_test/Task007/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_3658/table1.xlsx",
+    "generated_test/Task007/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_3658/table2.xlsx"
+  ],
+  "prompt": "what was average weighted average useful life ( years ) for customer contracts and relationships and trademarks?",
+  "answer": 8.5,
+  "expected_output_file": [],
+  "feedback": "Do you expect an average by summing the referenced values and dividing by the count while keeping the same units?",
+  "source_dataset": "MultiHiertt"
+}

@@ -1,0 +1,15 @@
+{
+  "task_id": "Test 2287",
+  "title": "APACHE CORPORATION AND SUBSIDIARIES NOTES TO CONSOLIDATED FINANCIAL STATEMENTS — (Continued) As of December 31,",
+  "spreadsheets": [
+    "generated_test/Task008/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_2287/table0.xlsx",
+    "generated_test/Task008/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_2287/table1.xlsx",
+    "generated_test/Task008/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_2287/table2.xlsx",
+    "generated_test/Task008/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_2287/table3.xlsx"
+  ],
+  "prompt": "What's the total amount of the oil volum in the years where North Sea is greater than 60000?",
+  "answer": 501979.0,
+  "expected_output_file": [],
+  "feedback": "Should I sum the specified values directly and give the total in the stated units?",
+  "source_dataset": "MultiHiertt"
+}

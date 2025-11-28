@@ -1,0 +1,16 @@
+{
+  "task_id": "Test 410",
+  "title": "20.",
+  "spreadsheets": [
+    "generated_test/Task003/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_410/table0.xlsx",
+    "generated_test/Task003/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_410/table1.xlsx",
+    "generated_test/Task003/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_410/table2.xlsx",
+    "generated_test/Task003/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_410/table3.xlsx",
+    "generated_test/Task003/spreadsheets/MultiHiertt/extracted_xlsx/train/Train_410/table4.xlsx"
+  ],
+  "prompt": "What's the sum of Decreases from the expiration of statute of limitations of 2015, and Life and Health companies of Years Ended December 31, 2013 ?",
+  "answer": 151628.0,
+  "expected_output_file": [],
+  "feedback": "Should I sum the specified values directly and give the total in the stated units?",
+  "source_dataset": "MultiHiertt"
+}
